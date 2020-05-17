@@ -12,3 +12,13 @@ From the Distance Matrix the Eta matrix, Pheromone Matrix are calculated to calc
 Now 5 ants were initialized, and their respective paths were calculated, with their respective distances they travelled.
                                                     
 Now the path with the least path distance is chosen and according to the parameters the number of booster pumps are calculated.
+
+![alt home](https://github.com/valiant-terminator/Optimization_Ant_Colony/blob/master/cordinate-distance-eta.PNG)
+
+![alt home](https://github.com/valiant-terminator/Optimization_Ant_Colony/blob/master/Pheromone-Probability.PNG)
+
+![alt home](https://github.com/valiant-terminator/Optimization_Ant_Colony/blob/master/Iteration.PNG)
+
+![alt home](https://github.com/valiant-terminator/Optimization_Ant_Colony/blob/master/Iteration2.PNG)
+
+![alt home](https://github.com/valiant-terminator/Optimization_Ant_Colony/blob/master/RestOutput.PNG)
